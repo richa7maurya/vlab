@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/vlab/static/css/main.81cc39d8.chunk.css",
+    "main.js": "/vlab/static/js/main.80209348.chunk.js",
+    "main.js.map": "/vlab/static/js/main.80209348.chunk.js.map",
+    "runtime~main.js": "/vlab/static/js/runtime~main.cf877b7d.js",
+    "runtime~main.js.map": "/vlab/static/js/runtime~main.cf877b7d.js.map",
+    "static/css/2.751616e6.chunk.css": "/vlab/static/css/2.751616e6.chunk.css",
+    "static/js/2.439b4d4c.chunk.js": "/vlab/static/js/2.439b4d4c.chunk.js",
+    "static/js/2.439b4d4c.chunk.js.map": "/vlab/static/js/2.439b4d4c.chunk.js.map",
+    "index.html": "/vlab/index.html",
+    "precache-manifest.b54852a18d76e222b9f64a3d64b24cef.js": "/vlab/precache-manifest.b54852a18d76e222b9f64a3d64b24cef.js",
+    "service-worker.js": "/vlab/service-worker.js",
+    "static/css/2.751616e6.chunk.css.map": "/vlab/static/css/2.751616e6.chunk.css.map",
+    "static/css/main.81cc39d8.chunk.css.map": "/vlab/static/css/main.81cc39d8.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/vlab/static/media/Pe-icon-7-stroke.dedf2698.svg",
+    "static/media/akash.jpeg": "/vlab/static/media/akash.346988f1.jpeg",
+    "static/media/ghanshyam.jpeg": "/vlab/static/media/ghanshyam.c75cb46d.jpeg",
+    "static/media/bootstrap.min.css": "/vlab/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/hitesh.jpeg": "/vlab/static/media/hitesh.84fddc1d.jpeg",
+    "static/media/kunal.jpeg": "/vlab/static/media/kunal.b11f832e.jpeg",
+    "static/media/mam.jpeg": "/vlab/static/media/mam.6e64533e.jpeg",
+    "static/media/mescoe_logo.png": "/vlab/static/media/mescoe_logo.4eac2000.png",
+    "static/media/parag.jpeg": "/vlab/static/media/parag.237ce3b3.jpeg",
+    "static/media/richa.jpg": "/vlab/static/media/richa.37c38062.jpg",
+    "static/media/sidebar-3.jpg": "/vlab/static/media/sidebar-3.b20b2188.jpg",
+    "static/media/sudesh.jpeg": "/vlab/static/media/sudesh.b0150be8.jpeg"
+  }
+}
